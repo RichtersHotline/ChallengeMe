@@ -7,7 +7,7 @@ user: process.env.UserDB,
 password: process.env.PWD,
 database: process.env.dbName,
 multipleStatements: true,
-connectionlimit:20
+connectionLimit:20
 
 
 
